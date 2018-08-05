@@ -1,3 +1,7 @@
 this is my first file
 
+<<<<<<< HEAD
 saanvi's isnot updated
+=======
+rajini first file is updated
+>>>>>>> 496f45c13a83c48870502fdcd1f3a2e3cbf14fa3
